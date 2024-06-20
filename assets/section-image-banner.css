@@ -442,7 +442,7 @@
 }
 
 .banner__buttons {
-  display:space-evenly;
+  display:space-between;
   flex-wrap: wrap;
   gap: 2rem;
   max-width: 25rem;
