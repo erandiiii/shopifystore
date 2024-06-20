@@ -445,7 +445,7 @@
     display:fixed;
   flex-wrap: wrap;
   gap: 2rem;
-  max-width: 25rem;
+  max-width: 45rem;
   word-break: break-word;
 }
 
